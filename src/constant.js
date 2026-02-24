@@ -32,6 +32,7 @@ import mmcLogo from '../src/assets/education_logo/mmc.png'
 import portfolioLogo from '../src/assets/work_logo/portfolio.png'
 import moviesLogo from '../src/assets/work_logo/movies (1).png'
 import jobPortalLogo from '../src/assets/work_logo/jobportal.png'
+import bheriHospitalLogo from '../src/assets/work_logo/Screenshot 2026-02-24 220931.png'
 
 export const SkillsInfo = [
   {
@@ -204,16 +205,16 @@ export const projects = [
     github: "https://github.com/codingmastr/Movie-Recommendation-App",
     webapp: "https://movie-recommendation-app-jet.vercel.app/",
   },
-  // {
-  //   id: 3,
-  //   title: "Email Validator NPM Package",
-  //   description:
-  //     "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
-  //   image: npmLogo,
-  //   tags: ["React JS", "Node.js", "NPM", "Validation"],
-  //   github: "https://github.com/codingmastr/cmtk-email-validator",
-  //   webapp: "https://www.npmjs.com/package/cmtk-email-validator",
-  // }
+  {
+    id: 3,
+    title: "Bheri Hopital Using Laravel framwork",
+    description:
+      "The Bheri Hospital Management System (BHMS) is a web-based application developed for Bheri Hospital, located in Nepalgunj, Banke. The main objective of this project is to digitize and automate hospital operations to improve efficiency, accuracy, and quality of healthcare services",
+    image: bheriHospitalLogo,
+    tags: ["Html", "BootStrap", "Php", "JavaScrip"],
+    github: "https://github.com/amar4-ai/bherihospital",
+    webapp: "",
+  },
   // {
   //   id: 4,
   //   title: "Task Reminder Chrome Extension Tool",
