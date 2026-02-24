@@ -1,34 +1,38 @@
 // Skills Section Logo's
-const htmlLogo = '../public/tech_logo/html.png'
-const cssLogo = '../public/tech_logo/css.png';
-const javascriptLogo = '../public/tech_logo/javascript.png';
-const reactjsLogo = '../public/tech_logo/reactjs.png';
-const reduxLogo = '../public/tech_logo/redux.png';
-const tailwindcssLogo = '../public/tech_logo/tailwindcss.png';
-const bootstrapLogo = '../public/tech_logo/bootstrap.png';
-const nodejsLogo = '../public/tech_logo/nodejs.png';
-const expressjsLogo = '../public/tech_logo/express.png';
-const mysqlLogo = '../public/tech_logo/mysql.png';
-const mongodbLogo = '../public/tech_logo/mongodb.png';
-const cLogo = '../public/tech_logo/c.png';
-const cppLogo = '../public/tech_logo/cpp.png';
-const gitLogo = '../public/tech_logo/git.png';
-const githubLogo = '../public/tech_logo/github-DabB8wTb.png';
-const vscodeLogo = '../public/tech_logo/vscode.png';
-const postmanLogo = '../public/tech_logo/postman.png';
-const csharpLogo = '../public/tech_logo/csharp.png';
+import htmlLogo from '../src/assets/tech_logo/html.png'
+import cssLogo from '../src/assets/tech_logo/css.png'
+import javascriptLogo from '../src/assets/tech_logo/javascript.png'
+import reactjsLogo from '../src/assets/tech_logo/reactjs.png'
+import reduxLogo from '../src/assets/tech_logo/redux.png'
+import tailwindcssLogo from '../src/assets/tech_logo/tailwindcss.png'
+import bootstrapLogo from '../src/assets/tech_logo/bootstrap.png'
+import nodejsLogo from '../src/assets/tech_logo/nodejs.png'
+import expressjsLogo from '../src/assets/tech_logo/express.png'
+import mysqlLogo from '../src/assets/tech_logo/mysql.png'
+import mongodbLogo from '../src/assets/tech_logo/mongodb.png'
+import cLogo from '../src/assets/tech_logo/c.png'
+import cppLogo from '../src/assets/tech_logo/cpp.png'
+import gitLogo from '../src/assets/tech_logo/git.png'
+import githubLogo from '../src/assets/tech_logo/github-DabB8wTb.png'
+import vscodeLogo from '../src/assets/tech_logo/vscode.png'
+import postmanLogo from '../src/assets/tech_logo/postman.png'
+import csharpLogo from '../src/assets/tech_logo/csharp.png'
+
+
 // Experience logo
-const jobportalLogo = '../public/company_logo/jobportal.png';
-const nextLogo = '../public/company_logo/next.jpg';
-const ninjaLogo = '../public/company_logo/ninja.jpg';
+import jobportalLogo from '../src/assets/company_logo/jobportal.png'
+import nextLogo from  '../src/assets/company_logo/next.jpg'
+import ninjaLogo from '../src/assets/company_logo/ninja.jpg'
 //Education logo
-const bardiyaLogo = '../public/education_logo/godiyana.png';
-const holylandLogo = '../public/education_logo/hoyland.png';
-const mmcLogo = '../public/education_logo/mmc.png';
+import bardiyaLogo from '../src/assets/education_logo/godiyana.png'
+import holylandLogo from '../src/assets/education_logo/hoyland.png'
+import mmcLogo from '../src/assets/education_logo/mmc.png'
+
 //Porjct section
-const portfolioLogo = '../public/work_logo/portfolio.png';
-const moviesLogo = '../public/work_logo/movies (1).png';
-const jobPortalLogo = '../public/work_logo/jobportal.png';
+import portfolioLogo from '../src/assets/work_logo/portfolio.png'
+import moviesLogo from '../src/assets/work_logo/movies (1).png'
+import jobPortalLogo from '../src/assets/work_logo/jobportal.png'
+
 export const SkillsInfo = [
   {
     title: 'Frontend',
