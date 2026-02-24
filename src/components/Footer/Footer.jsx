@@ -59,7 +59,11 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
+<<<<<<< HEAD
           © 2026 Amar Khadka. All rights reserved.
+=======
+          © 2026 Amar Kkhadka. All rights reserved.
+>>>>>>> 0845c9300d69ed78e9c25850fd6e9a801f6c978b
         </p>
       </div>
     </footer>
