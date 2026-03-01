@@ -21,7 +21,7 @@ import csharpLogo from '../src/assets/tech_logo/csharp.png'
 
 // Experience logo
 import digitalPathshala from '../src/assets/company_logo/digital.png'
-import nextLogo from  '../src/assets/company_logo/next.jpg'
+
 import ninjaLogo from '../src/assets/company_logo/ninja.jpg'
 //Education logo
 import bardiyaLogo from '../src/assets/education_logo/godiyana.png'
