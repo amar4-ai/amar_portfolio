@@ -19,6 +19,7 @@ import postmanLogo from '../src/assets/tech_logo/postman.png'
 import csharpLogo from '../src/assets/tech_logo/csharp.png'
 
 
+
 // Experience logo
 import digitalPathshala from '../src/assets/company_logo/digital.png'
 
@@ -33,6 +34,7 @@ import portfolioLogo from '../src/assets/work_logo/portfolio.png'
 import moviesLogo from '../src/assets/work_logo/movies (1).png'
 import jobPortalLogo from '../src/assets/work_logo/jobportal.png'
 import bheriHospitalLogo from '../src/assets/work_logo/Screenshot 2026-02-24 220931.png'
+import instaColne from '../src/assets/work_logo/Screenshot 2026-03-04 224843.png'
 
 export const SkillsInfo = [
   {
@@ -166,7 +168,7 @@ export const projects = [
     image: portfolioLogo,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
     github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    webapp: "https://amar4-ai.github.io/Personal-website/",
+    webapp: "http://localhost:5173/amar_portfolio/",
   },
   {
     id: 1,
@@ -176,7 +178,7 @@ export const projects = [
     image: moviesLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/codingmastr/CSPrep",
-    webapp: "https://csprep.netlify.app/",
+    webapp: "",
   },
   {
     id: 2,
@@ -185,8 +187,8 @@ export const projects = [
       "Job Portal (Fullstack) – A responsive fullstack job portal built with React, Shadcn/UI, and a backend database. Users can register, search and apply for jobs, while recruiters can post and manage listings. Features include authentication, dynamic search, and application tracking.",
     image: jobPortalLogo,
     tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/Movie-Recommendation-App",
-    webapp: "https://movie-recommendation-app-jet.vercel.app/",
+    github: "https://github.com/amar4-ai/Job-Portal-website",
+    webapp: "https://job-portal-amar.onrender.com",
   },
   {
     id: 3,
@@ -194,9 +196,18 @@ export const projects = [
     description:
       "The Bheri Hospital Management System (BHMS) is a web-based application developed for Bheri Hospital, located in Nepalgunj, Banke. The main objective of this project is to digitize and automate hospital operations to improve efficiency, accuracy, and quality of healthcare services",
     image: bheriHospitalLogo,
-    tags: ["Html", "BootStrap", "Php", "JavaScrip"],
+    tags: ["Html", "BootStrap", "Php", "JavaScript"],
     github: "https://github.com/amar4-ai/bherihospital",
     webapp: "",
   },
+  {
+    id:4,
+    title:"Insta-Clone",
+    description:"Instagram Clone – A social media web application that mimics Instagram’s core features. Users can sign up, log in, create posts with images, like and comment on posts, follow other users, and view a personalized feed. Built with React for the frontend, Laravel/Node.js for the backend, and MongoDB/SQL for data storage, this project demonstrates full-stack development skills, including user authentication, CRUD operations, and responsive UI design.",
+    image: instaColne,
+    tags:["REACTJS","EXPRESS","NODEJS","MONGOOSE","TAILWINDCSS","SOCKETIO"],
+    github:"https://github.com/amar4-ai/Insta-Clone",
+    webapp:"https://insta-clone-5she.onrender.com",
+  }
 
 ];  
