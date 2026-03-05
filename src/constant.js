@@ -168,7 +168,7 @@ export const projects = [
     image: portfolioLogo,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
     github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    webapp: "http://localhost:5173/amar_portfolio/",
+    webapp: "https://amar4-ai.github.io/amar_portfolio/",
   },
   {
     id: 1,
