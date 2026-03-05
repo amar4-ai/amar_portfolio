@@ -178,7 +178,7 @@ export const projects = [
     image: moviesLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/codingmastr/CSPrep",
-    webapp: "",
+    webapp: "https://amar4-ai.github.io/movies-recco/",
   },
   {
     id: 2,
