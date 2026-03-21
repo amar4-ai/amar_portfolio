@@ -39,8 +39,8 @@ const Footer = () => {
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
             { icon: <FaFacebook />, link: "https://www.facebook.com/amar.khadka.7359447/" },
-            { icon: <FaTwitter />, link: "" },
-            { icon: <FaLinkedin />, link: "" },
+            { icon: <FaTwitter />, link: "https://x.com/quack_4u" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/amar-khadka-5444753b6/" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/__amar78/" },  
            
             
