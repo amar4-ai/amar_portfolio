@@ -219,7 +219,7 @@ export const projects = [
     tags:["REACTJS","EXPRESS","NODEJS","MONGOOSE","TAILWINDCSS"],
     github:"https://github.com/amar4-ai/E-Commerce",
     webapp:"https://e-commerce-frontend-eta-mauve.vercel.app/",
-    adminpanel:"https://e-commerce-admin-jet-eight.vercel.app/"
+    admin:"https://e-commerce-admin-jet-eight.vercel.app/"
   },
   {
     id:6,
