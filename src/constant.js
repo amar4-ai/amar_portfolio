@@ -223,7 +223,7 @@ export const projects = [
   },
   {
     id:6,
-    title:"E-Commerce(note:admin=id:admin@gmail.com & pass:amar143)",
+    title:"Chat-app",
     description:"A chat application using Socket.io enables real-time communication between users by establishing a persistent connection between the client and server. It allows instant sending and receiving of messages without refreshing the page. This project typically includes features like user authentication, online/offline status, typing indicators, and message broadcasting, demonstrating how WebSockets can be used to build fast and interactive full-stack applications.",
     image: chatapp,
     tags:["REACTJS","EXPRESS","NODEJS","MONGOOSE","TAILWINDCSS","socket.io"],
