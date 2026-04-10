@@ -31,10 +31,12 @@ import mmcLogo from '../src/assets/education_logo/mmc.png'
 
 //Porjct section
 import portfolioLogo from '../src/assets/work_logo/portfolio.png'
-import moviesLogo from '../src/assets/work_logo/movies (1).png'
+import moviesLogo from '../src/assets/work_logo/Movie-app.png'
 import jobPortalLogo from '../src/assets/work_logo/jobportal.png'
 import bheriHospitalLogo from '../src/assets/work_logo/Screenshot 2026-02-24 220931.png'
 import instaColne from '../src/assets/work_logo/Screenshot 2026-03-04 224843.png'
+import ecommerce from '../src/assets/work_logo/E-commerce.png'
+import chatapp from '../src/assets/work_logo/chat-app.png'
 
 export const SkillsInfo = [
   {
@@ -172,13 +174,13 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Movie Recommendation App",
+    title: "Movie-App",
     description:
       " React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
     image: moviesLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/CSPrep",
-    webapp: "https://amar4-ai.github.io/movies-recco/",
+    github: "https://github.com/amar4-ai/Show-Movies",
+    webapp: "https://show-movie-delta.vercel.app/",
   },
   {
     id: 2,
@@ -208,6 +210,26 @@ export const projects = [
     tags:["REACTJS","EXPRESS","NODEJS","MONGOOSE","TAILWINDCSS","SOCKETIO"],
     github:"https://github.com/amar4-ai/Insta-Clone",
     webapp:"https://insta-clone-5she.onrender.com",
-  }
+  },
+  {
+    id:5,
+     title:"E-Commerce(note:admin=id:admin@gmail.com & pass:amar143)",
+    description:"An e-commerce website is an online platform that allows users to browse products, add items to a cart, and securely complete purchases. It typically includes features like user authentication, product search and filtering, payment integration, and order management. This project demonstrates full-stack development skills by combining a responsive frontend with a backend system that handles data, transactions, and user interactions efficiently.",
+    image: ecommerce,
+    tags:["REACTJS","EXPRESS","NODEJS","MONGOOSE","TAILWINDCSS"],
+    github:"https://github.com/amar4-ai/E-Commerce",
+    webapp:"https://e-commerce-frontend-eta-mauve.vercel.app/",
+    adminpanel:"https://e-commerce-admin-jet-eight.vercel.app/"
+  },
+  {
+    id:6,
+    title:"E-Commerce(note:admin=id:admin@gmail.com & pass:amar143)",
+    description:"A chat application using Socket.io enables real-time communication between users by establishing a persistent connection between the client and server. It allows instant sending and receiving of messages without refreshing the page. This project typically includes features like user authentication, online/offline status, typing indicators, and message broadcasting, demonstrating how WebSockets can be used to build fast and interactive full-stack applications.",
+    image: chatapp,
+    tags:["REACTJS","EXPRESS","NODEJS","MONGOOSE","TAILWINDCSS","socket.io"],
+    github:"https://github.com/amar4-ai/Chat_App",
+    webapp:"https://chat-app-frontend-brown-five.vercel.app/",
+    
+  },
 
 ];  
