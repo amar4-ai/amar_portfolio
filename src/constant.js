@@ -36,7 +36,7 @@ import jobPortalLogo from '../src/assets/work_logo/jobportal.png'
 import bheriHospitalLogo from '../src/assets/work_logo/Screenshot 2026-02-24 220931.png'
 import instaColne from '../src/assets/work_logo/Screenshot 2026-03-04 224843.png'
 import ecommerce from '../src/assets/work_logo/E-commerce.png'
-import chatapp from '../src/assets/work_logo/chat-app.png'
+import chatapp from '../src/assets/work_logo/chat-app (2).png'
 
 export const SkillsInfo = [
   {
