@@ -50,7 +50,8 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1oOWDsU9P7Cw23QzeQJTl4iPg7Jxgsi0e/view?usp=sharing"
+
+            href='https://drive.google.com/file/d/1PnKw05Vxr_hBPrsQVBi3KxoFCnz1Iurz/view?usp=sharing'
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -61,7 +62,7 @@ const About = () => {
           >
             DOWNLOAD CV
           </a>
-          
+
         </div>
         {/* Right Side */}
         <div className="md:w-1/2 flex justify-center md:justify-end">
