@@ -233,7 +233,7 @@ export const projects = [
     
   },
     {
-    id: 2,
+    id: 7,
     title: "New Job Portal",
     description:
       "Job Portal (Fullstack) – A responsive fullstack job portal built with React, Shadcn/UI, and a backend database. Users can register, search and apply for jobs, while recruiters can post and manage listings. Features include authentication, dynamic search, and application tracking.",
