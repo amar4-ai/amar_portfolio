@@ -37,6 +37,7 @@ import bheriHospitalLogo from '../src/assets/work_logo/Screenshot 2026-02-24 220
 import instaColne from '../src/assets/work_logo/Screenshot 2026-03-04 224843.png'
 import ecommerce from '../src/assets/work_logo/E-commerce.png'
 import chatapp from '../src/assets/work_logo/chat-app (2).png'
+import newjobportal from '../src/assets/work_logo/new-jobportal.png'
 
 export const SkillsInfo = [
   {
@@ -230,6 +231,16 @@ export const projects = [
     github:"https://github.com/amar4-ai/Chat_App",
     webapp:"https://chat-app-frontend-brown-five.vercel.app/",
     
+  },
+    {
+    id: 2,
+    title: "New Job Portal",
+    description:
+      "Job Portal (Fullstack) – A responsive fullstack job portal built with React, Shadcn/UI, and a backend database. Users can register, search and apply for jobs, while recruiters can post and manage listings. Features include authentication, dynamic search, and application tracking.",
+    image: newjobportal,
+    tags: ["React JS", "API", "HTML", "CSS", "JavaScript","Clerk"],
+    github: "https://github.com/amar4-ai/JOB-Portal",
+    webapp: "https://job-portal-client-bice-rho.vercel.app/",
   },
 
 ];  
