@@ -38,6 +38,7 @@ import instaColne from '../src/assets/work_logo/Screenshot 2026-03-04 224843.png
 import ecommerce from '../src/assets/work_logo/E-commerce.png'
 import chatapp from '../src/assets/work_logo/chat-app (2).png'
 import newjobportal from '../src/assets/work_logo/new-jobportal.png'
+import resturant from '../src/assets/work_logo/resturant.png'
 
 export const SkillsInfo = [
   {
@@ -241,6 +242,16 @@ export const projects = [
     tags: ["React JS", "API", "HTML", "CSS", "JavaScript","Clerk"],
     github: "https://github.com/amar4-ai/JOB-Portal",
     webapp: "https://job-portal-client-bice-rho.vercel.app/",
+  },
+    {
+    id: 8,
+    title: "Restaurant",
+    description:
+      "QuickDine – Restaurant Reservation System (Fullstack) – A fullstack restaurant reservation platform built with React, TypeScript, Node.js, Express, MongoDB, and Tailwind CSS. Users can discover restaurants and book tables, restaurant owners can manage listings and reservations, and administrators can approve restaurants and monitor the platform. Includes JWT authentication, role-based access control, Cloudinary image uploads, and a responsive modern UI.",
+    image: resturant,
+    tags: ["React JS", "HTML", "CSS", "JavaScript","MongooseDb","expressjs"],
+    github: "https://github.com/amar4-ai/Quickdine",
+    webapp: "https://quickdine-client.vercel.app/",
   },
 
 ];  
